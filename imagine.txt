@@ -1,0 +1,14 @@
+theme => young, eager, modern, animation, like travel,
+background color => orange, tosca, blue ocean 
+
+will use vector img or something else, for mascot
+
+can select language or not? must be considered
+
+how about menu?
+ - article
+ - vision mission
+ - gallery
+ - contact
+ 
+ deadline for designs end of february
